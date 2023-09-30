@@ -150,7 +150,6 @@ hr{
     background-size: cover;
     background-position: center;
     background-color: tomato;
-    box-shadow: 5px 5px 28px;
 }
 
 .img1{
@@ -174,6 +173,7 @@ hr{
     margin-left: 225px;
     rotate: -9deg;
     border: 7px solid whitesmoke;
+    box-shadow: 5px 5px 28px;
 }
 
 .section2{
