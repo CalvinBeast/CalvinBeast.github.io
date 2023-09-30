@@ -149,18 +149,28 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background-color: tomato;
 }
 
 .img1{
-    background-image: url(home4.jpg);
+    margin-top: -22px;
+  margin-left: 225px;
+  rotate: -9deg;
+  border: 7px solid whitesmoke;
 }
 
 .img2{
-    background-image: url(home5.jpg);
+    margin-top: -22px;
+  margin-left: 69px;
+  rotate: 9deg;
+  border: 7px solid whitesmoke;
 }
 
 .img3{
-    background-image: url(fruit.jpg);
+    margin-top: -22px;
+    margin-left: 225px;
+    rotate: -9deg;
+    border: 7px solid whitesmoke;
 }
 
 .section2{
