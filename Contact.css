@@ -393,6 +393,21 @@ li:hover ~ li p {
       padding: 8px 9px;
     }
 
+    .card{
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .add{
+      width: 100%;
+      padding: 20px;
+    }
+
+    .form{
+      width: 100%;
+      padding: 20px;
+    }
+    
     .foot {
       display: flex;
       height: fit-content;
